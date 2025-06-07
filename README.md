@@ -38,9 +38,14 @@
 ---
 
 ### ✨ Sobre mim
-- 🎯 Buscando oportunidades como desenvolvedor front-end/mobile júnior  
-- 🧩 Interesse em UX/UI, apps de saúde, inteligência artificial e acessibilidade  
-- 💡 Curioso, autodidata e sempre pronto pra novos desafios  
+
+- 🎓 Graduando em Ciência da Computação (FMU) e Técnico em Análise e Desenvolvimento de Sistemas (ETEC)
+- 💼 Experiência em análise e desenvolvimento de sistemas, suporte técnico, scripts de automação e integração de IA
+- 🧠 Habilidades com JavaScript, React, Node.js, Java, Python, PHP, TypeScript, MySQL, Django, C, C++, Git, HTML/CSS e mais
+- 🎨 Interesse em UI/UX Design com domínio em Figma, Photoshop, Illustrator e GIMP
+- ☁️ Conhecimento em tecnologias como Firebase, AWS, SAP, Protheus, Power BI e computação em nuvem
+- 🌐 Comunicativo, responsável e sempre em busca de evolução profissional e pessoal
+
 
 ---
 
