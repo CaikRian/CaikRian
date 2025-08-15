@@ -14,7 +14,7 @@
 | Projeto | Descrição |
 |--------|-----------|
 | 🔹 [**CliniVox**](https://github.com/CliniVox/CliniVox) | Assistente de saúde por voz com Firebase, Vapi.AI e Android. UX moderna e acessível. |
-| 🔹 [**Meu Portfólio Online**](https://github.com/CaikRian/MeuPortfolio_Online) | Website pessoal com foco em design moderno e responsivo. |
+| 🔹 [**Meu Portfólio Online**](https://github.com/CaikRian/Portfolio-v2.0) | Website pessoal com foco em design moderno e responsivo. |
 | 🔹 [**RetroGlam Culture**](https://github.com/CaikRian/RetroGlam-Couture) | E-commerce retrô fashion, com foco em UX, responsividade e estilo. |
 | 🔹 [**Minha Pokédex**](https://github.com/CaikRian/Minha_Pokedex) | Pokédex dinâmica utilizando API e JavaScript com uma interface envolvente. |
 
@@ -23,7 +23,7 @@
 ### 🚀 Tecnologias que já utilizei
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,androidstudio,firebase,nodejs,react,figma,vite,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,androidstudio,firebase,nodejs,react,figma,vite,vercel&theme=dark" />
 </p>
 
 ---
